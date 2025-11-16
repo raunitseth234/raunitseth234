@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Raunit+Seth;Full+Stack+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Raunit+Seth;AI%2FML+%26+Frontend+Developer;Problem+Solver+%7C+Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -35,7 +35,7 @@
 
 ## 🎯 Current Focus
 - 🔭 Working on exciting projects
-- 🌱 Expanding my knowledge in full-stack development
+- 🌱 Expanding my knowledge in AI/ML and modern frontend technologies
 - 👯 Open to collaborate on innovative projects
 - 💬 Ask me about web development, algorithms, or tech in general
 
