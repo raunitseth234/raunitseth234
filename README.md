@@ -23,28 +23,93 @@
 
 <br/>
 
-## 👨‍💻 About Me
+<div align="center">
 
-I'm a passionate **AI/ML Engineer** and **Frontend Developer** dedicated to building intelligent systems that solve real-world problems. I specialize in creating seamless experiences where cutting-edge machine learning meets intuitive user interfaces.
+## 🚀 About Me
 
-### 🎯 What I Do
+</div>
 
-- **Artificial Intelligence & Machine Learning**: Developing and deploying production-ready ML models using TensorFlow, PyTorch, and Scikit-learn
-- **Frontend Development**: Crafting responsive, modern web applications with React, Next.js, and TypeScript
-- **Data Science**: Transforming complex datasets into actionable insights using Python, Pandas, and NumPy
-- **Full-Stack Development**: Building end-to-end solutions from intelligent backends to beautiful frontends
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-### 💡 Current Focus
+### 👋 Hi there!
 
-- 🔭 Building AI-powered web applications that make a difference
-- 🧠 Exploring advanced Deep Learning architectures and techniques
-- 🎨 Creating accessible, performant user interfaces
-- 🌱 Contributing to open-source projects
-- 👯 Open to collaborating on innovative AI/ML and web development projects
+I'm a passionate **AI/ML Engineer** and **Frontend Developer** who loves building intelligent systems that solve real-world problems. I believe in creating seamless experiences where cutting-edge machine learning meets beautiful, intuitive user interfaces.
 
-### 📫 Let's Connect
+### 💼 What I Do
 
-I'm always excited to discuss new technologies, collaborate on interesting projects, or explore opportunities. Feel free to reach out!
+```javascript
+const raunitSeth = {
+    role: "AI/ML & Frontend Developer",
+    location: "India",
+    expertise: {
+        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "Deep Learning"],
+        frontend: ["React", "Next.js", "TypeScript", "Tailwind CSS"],
+        languages: ["Python", "JavaScript", "TypeScript"],
+        tools: ["Git", "Docker", "VS Code", "Jupyter"]
+    },
+    currentFocus: "Building AI-powered web applications",
+    openToCollaborate: true
+};
+```
+
+<br clear="right"/>
+
+<div align="center">
+
+### 🎯 Current Focus & Goals
+
+</div>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+**🤖 AI/ML Development**
+
+Building production-ready ML models
+with TensorFlow & PyTorch
+
+</td>
+<td align="center" width="50%">
+
+**🎨 Frontend Engineering**
+
+Crafting responsive, modern web apps
+with React & Next.js
+
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+
+**📊 Data Science**
+
+Transforming complex data into
+actionable insights
+
+</td>
+<td align="center" width="50%">
+
+**🌱 Continuous Learning**
+
+Exploring Deep Learning & 
+contributing to open-source
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### 💡 What Drives Me
+
+*"Building intelligent solutions that make technology accessible and impactful"*
+
+🔭 Creating AI-powered applications • 🧠 Solving complex problems • 🎨 Designing beautiful interfaces • 🤝 Collaborating on innovative projects
+
+</div>
+
+---
 
 ## 💻 Tech Stack
 
