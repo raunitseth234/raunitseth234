@@ -4,7 +4,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Raunit%20Seth&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
   
   <!-- Typing Animation -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&width=800&height=100&lines=AI%2FML+Engineer+%7C+Frontend+Architect;%F0%9F%A4%96+Training+Neural+Networks+%7C+Building+Smart+Systems;%F0%9F%8E%A8+Crafting+Pixel-Perfect+Interfaces;%F0%9F%9A%80+Transforming+Data+into+Intelligence;%E2%9A%A1+Code+%E2%80%A2+Create+%E2%80%A2+Innovate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+%7C+Frontend+Developer;Building+Intelligent+Solutions+with+Python+%26+TensorFlow;Crafting+Beautiful+Interfaces+with+React+%26+Next.js;Transforming+Data+into+Actionable+Insights;Open+to+Collaborate+on+Innovative+Projects" alt="Typing SVG" />
   
   <!-- Profile Views & Badges -->
   <p>
