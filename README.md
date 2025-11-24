@@ -23,31 +23,28 @@
 
 <br/>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+I'm a passionate **AI/ML Engineer** and **Frontend Developer** dedicated to building intelligent systems that solve real-world problems. I specialize in creating seamless experiences where cutting-edge machine learning meets intuitive user interfaces.
 
-```python
-class RaunitSeth:
-    def __init__(self):
-        self.username = "raunitseth234"
-        self.role = "AI/ML & Frontend Developer"
-        self.location = "India"
-        self.interests = ["Machine Learning", "Web Development", "AI"]
-        
-    def get_skills(self):
-        return {
-            "languages": ["Python", "JavaScript", "TypeScript"],
-            "ai_ml": ["TensorFlow", "PyTorch", "Scikit-learn", "Pandas"],
-            "frontend": ["React", "Next.js", "HTML5", "CSS3", "Tailwind"],
-            "tools": ["Git", "Docker", "VS Code", "Jupyter"]
-        }
-    
-    def current_focus(self):
-        return "Building AI-powered web applications"
-```
+### 🎯 What I Do
 
-<br clear="right"/>
+- **Artificial Intelligence & Machine Learning**: Developing and deploying production-ready ML models using TensorFlow, PyTorch, and Scikit-learn
+- **Frontend Development**: Crafting responsive, modern web applications with React, Next.js, and TypeScript
+- **Data Science**: Transforming complex datasets into actionable insights using Python, Pandas, and NumPy
+- **Full-Stack Development**: Building end-to-end solutions from intelligent backends to beautiful frontends
+
+### 💡 Current Focus
+
+- 🔭 Building AI-powered web applications that make a difference
+- 🧠 Exploring advanced Deep Learning architectures and techniques
+- 🎨 Creating accessible, performant user interfaces
+- 🌱 Contributing to open-source projects
+- 👯 Open to collaborating on innovative AI/ML and web development projects
+
+### 📫 Let's Connect
+
+I'm always excited to discuss new technologies, collaborate on interesting projects, or explore opportunities. Feel free to reach out!
 
 ## 💻 Tech Stack
 
@@ -90,28 +87,13 @@ class RaunitSeth:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=raunitseth234&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" alt="GitHub Streak" />
 </div>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=raunitseth234&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophy" />
-</div>
-
 ## 📈 Contribution Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=raunitseth234&custom_title=Raunit's%20Contribution%20Graph&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🎯 Current Focus
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-- 🔭 Building AI-powered web applications
-- 🧠 Deep diving into Machine Learning algorithms
-- 🎨 Creating responsive and intuitive user interfaces
-- 🌱 Learning advanced Deep Learning techniques
-- 👯 Open to collaborate on AI/ML and Frontend projects
-- 💬 Ask me about **Python, React, Machine Learning, or Web Development**
 
 ## 💡 Random Dev Quote
 
